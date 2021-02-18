@@ -21,8 +21,10 @@ For today's lab assignment, you will work independently to create a personal por
 
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
+# [Live URL (Click me!) ](https://portfolio-omari.herokuapp.com/)
+
 ```
-Number and name of feature: Feature #1: Deployment
+Number and name of feature: Feature #1, #2: Deployment, Refactor the CSS
 
 Estimate of time needed to complete: 30 Minutes
 
@@ -30,7 +32,7 @@ Start time: 12:35
 
 Finish time: 1:05
 
-Actual time needed to complete: _____
+Actual time needed to complete: 25 Minutes
 ```
 
 Add this information to your README.
